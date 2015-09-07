@@ -16,10 +16,11 @@ basic gist of the outlined machine learning algorithms.
 ## Current example implementations:
 
 * Linear Regression w/multiple variables
+* Logistic Regression
 
 ## Upcoming example implementations:
 
 These are in progress and will be uploaded soon.
 
-* Logistic Regression
 * K-means Clustering
+* Neural Network 
