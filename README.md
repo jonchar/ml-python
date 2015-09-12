@@ -13,12 +13,12 @@ reinforce the concepts, and also just for fun.
 These notebooks are intended to serve as examples and references for the
 basic gist of the outlined machine learning algorithms.
 
-## Current example implementations:
+## Current examples:
 
 * Linear Regression w/multiple variables
 * Logistic Regression
 
-## Upcoming example implementations:
+## Upcoming examples:
 
 These are in progress and will be uploaded soon.
 
