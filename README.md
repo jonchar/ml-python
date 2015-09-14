@@ -15,7 +15,7 @@ basic gist of the outlined machine learning algorithms.
 
 ## Current examples:
 
-* Linear regression w/multiple variables
+* Linear regression
 * Logistic regression
 * *k*-means clustering
 
