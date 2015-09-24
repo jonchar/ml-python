@@ -22,7 +22,8 @@ basic gist of the outlined machine learning algorithms.
 
 ## Upcoming examples:
 
-These are in progress and will be uploaded soon.
+These are currently in progress at various stages of completion.
 
 * Limitations of *k*-means clustering
+* Support vector machines
 * Cross-validation
