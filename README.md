@@ -18,7 +18,7 @@ basic gist of the outlined machine learning algorithms.
 * Linear regression
 * Logistic regression
 * *k*-means clustering
-* Neural networks
+* Artificial neural networks
 
 ## Upcoming examples:
 
