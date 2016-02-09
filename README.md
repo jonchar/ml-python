@@ -19,11 +19,11 @@ basic gist of the outlined machine learning algorithms.
 * Logistic regression
 * *k*-means clustering
 * Artificial neural networks
+* Support vector machines
 
 ## Upcoming examples:
 
 These are currently in progress at various stages of completion.
 
 * Limitations of *k*-means clustering
-* Support vector machines
 * Cross-validation
